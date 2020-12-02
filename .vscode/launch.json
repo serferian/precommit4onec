@@ -10,7 +10,7 @@
             "request": "launch",
             "program": "${file}",
             "args": ["precommit", "./", "-source-dir", "\"DataProcessorsExt\""],
-            "cwd": "S:/!repo/bigsoft5",
+            "cwd": "D:/SV-Retail/_Personal/zverev/repo/retail",
             "runtimeExecutable": null,
             "debugPort": 2801,
             "protocol": "internal"
