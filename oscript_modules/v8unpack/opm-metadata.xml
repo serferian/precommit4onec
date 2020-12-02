@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<opm-metadata xmlns="http://oscript.io/schemas/opm-metadata/1.0">
+    <name>v8unpack</name>
+    <version>1.0.1</version>
+    <author>Sergey Batanov</author>
+    <author-email>sergey.batanov@dmpas.ru</author-email>
+    <description>Компонента работы с файлами формата 8</description>
+    <engine-version>1.0.15</engine-version>
+</opm-metadata>

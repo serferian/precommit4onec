@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<opm-metadata xmlns="http://oscript.io/schemas/opm-metadata/1.0">
+    <name>gitrunner</name>
+    <version>1.4.0</version>
+    <engine-version>1.0.16</engine-version>
+    <Задачи>tasks</Задачи>
+    <depends-on name="1bdd" />
+    <depends-on name="1commands" version="1.2.0" />
+    <depends-on name="asserts" />
+    <depends-on name="fs" />
+    <depends-on name="json" />
+    <depends-on name="logos" />
+</opm-metadata>
