@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<opm-metadata xmlns="http://oscript.io/schemas/opm-metadata/1.0">
-    <name>1commands</name>
-    <version>1.2.0</version>
-    <engine-version>1.0.16</engine-version>
-    <depends-on name="logos" />
-    <depends-on name="asserts" />
-    <depends-on name="tempfiles" />
-</opm-metadata>

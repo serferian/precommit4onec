@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<testsuites name="1bdd" time="0" tests="1" failures="0" skipped="1">
-    <testsuite name="Выполнение фич">
-        <properties />
-        <testcase classname="После нереализованного шага следующие шаги сценария не выполняются" name="я запускаю нереализованный шаг" status="skipped" />
-    </testsuite>
-</testsuites>

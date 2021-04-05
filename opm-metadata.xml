@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<opm-metadata xmlns="http://oscript.io/schemas/opm-metadata/1.0">
+    <name>precommit4onec</name>
+    <engine-version>1.0.17</engine-version>
+    <version>1.22.1</version>
+    <depends-on name="logos" version="1.2.0"/>
+    <depends-on name="cmdline" version="1.0.0"/>
+    <depends-on name="1bdd" version="1.9.0"/>
+    <depends-on name="gitrunner" version="1.6.0"/>
+    <depends-on name="v8runner" version="1.3.0"/>
+    <depends-on name="v8unpack" version="1.0.4"/>
+    <depends-on name="semver" version="0.5.2"/>
+    <executable name="precommit4onec">src/main.os</executable>
+</opm-metadata>
